@@ -4,9 +4,8 @@
   <artifactId>poi-mapper</artifactId>
   <versioning>
     <versions>
-      <version>1.0.2-SNAPSHOT</version>
       <version>1.0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20201012085503</lastUpdated>
+    <lastUpdated>20201012085846</lastUpdated>
   </versioning>
 </metadata>
